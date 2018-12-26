@@ -1,3 +1,7 @@
-#!/bin/sh
+#!/bin/bash
 
-echo "hello world"
+echo "hello world testing"
+
+#
+# End Script
+#
